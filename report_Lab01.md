@@ -10,7 +10,7 @@
 ## 1. MỤC TIÊU VÀ TỔNG QUAN LAB 1
 
 Bài thực hành số 1 rèn luyện chuỗi năng lực thực nghiệm nền tảng trong xử lý tín hiệu âm thanh và tiếng nói số:
-$$\text{Audio gốc} \longrightarrow \text{Biểu diễn số} \longrightarrow \text{Miền thời gian} \longrightarrow \text{FFT / STFT} \longrightarrow \text{Lọc số FIR} \longrightarrow \text{Lượng tử hóa \& Mã hóa} \longrightarrow \text{Đánh giá \& Định lượng}$$
+$$\text{Audio gốc} \longrightarrow \text{Biểu diễn số} \longrightarrow \text{Miền thời gian} \longrightarrow \text{FFT / STFT} \longrightarrow \text{Lọc số FIR} \longrightarrow \text{Lượng tử hóa và Mã hóa} \longrightarrow \text{Đánh giá và Định lượng}$$
 
 Sản phẩm thực hành bao gồm:
 1. Kịch bản thực thi tự động: [`run_lab.py`](file:///d:/xuliamthanh/Lab01_2351260663_NguyenThiLinh/run_lab.py)
